@@ -71,6 +71,11 @@ main {
 	margin-bottom: 1rem;
 }
 
+section {
+	background-color: lightblue;
+	padding: 1rem;
+}
+
 /* Footer Styles */
 footer {
 	background-color: black;
