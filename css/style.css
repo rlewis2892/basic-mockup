@@ -48,6 +48,14 @@ body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+.pull-right {
+	float: right;
+}
+
+.pull-left {
+	float: left;
+}
+
 /* Header Styles */
 header {
 	background-color: lightblue;
@@ -74,6 +82,21 @@ main {
 section {
 	background-color: lightblue;
 	padding: 1rem;
+}
+
+/* image styles */
+img {
+	border: 5px solid #999;
+}
+
+img[alt="star trek cat"] {
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+}
+
+img[alt="captain janeway is fierce"] {
+	margin-left: 1rem;
+	margin-bottom: 1rem;
 }
 
 /* Footer Styles */
