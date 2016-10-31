@@ -38,12 +38,17 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-/* The "Answer" */
+/********************************************
+* The "Answer"
+********************************************/
+
+/* Global Body Styles */
 html,
 body {
 	font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Header Styles */
 header {
 	background-color: lightblue;
 	padding-top: 1rem;
@@ -54,6 +59,13 @@ h1 {
 	margin: 0;
 }
 
+/* Main Content Styles */
+main {
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+/* Footer Styles */
 footer {
 	background-color: black;
 	color: #999;
@@ -62,3 +74,4 @@ footer {
 	padding-bottom: 1rem;
 	font-size: 0.9rem;
 }
+
