@@ -53,3 +53,12 @@ header {
 h1 {
 	margin: 0;
 }
+
+footer {
+	background-color: black;
+	color: #999;
+	font-style: italic;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	font-size: 0.9rem;
+}
