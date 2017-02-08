@@ -37,3 +37,51 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+/***
+* The "Answer"
+***/
+html {
+	font-family: sans-serif;
+}
+
+header {
+	background-color: lightskyblue;
+	padding: 20px 0;
+}
+
+h1 {
+	margin: 0;
+}
+
+footer {
+	background-color: black;
+	margin-top: 40px;
+	color: #555;
+	font-style: italic;
+	padding: 40px 0;
+}
+
+.instructions {
+	border: 3px solid #BBB;
+	padding: 20px;
+	margin: 20px 0;
+}
+
+section {
+	background-color: lightblue;
+	padding: 20px;
+}
+
+.pull-right {
+	float: right;
+}
+
+.pull-left {
+	float:left
+}
+
+img {
+	border: 3px solid #BBB;
+	margin: 10px;
+}
